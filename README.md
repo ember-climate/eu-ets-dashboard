@@ -21,5 +21,11 @@ wget http://neo4j.com/artifact.php?name=neo4j-community-2.3.3-unix.tar.gz
    ``` bash
    mv neo4j-server.properties neo4j-community-2.3.3/conf
    ```
+   
+### Launch the Server
+
+``` bash
+sudo neo4j-community-2.3.3/bin/neo4j start
+```
 
 
